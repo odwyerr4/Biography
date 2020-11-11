@@ -23,16 +23,29 @@ There are several reasons why I decided to write a biography on Mark Zuckerberg.
 
 
 [1] https://www.goodreads.com/quotes/7462175-move-fast-and-break-things-unless-you-are-breaking-stuff
+
 [2] https://en.wikipedia.org/wiki/Mark_Zuckerberg 
+
 [3] https://selftaught.blog/mark-zuckerberg-facebook/ 
+
 [4] https://www.primotoys.com/4-famous-programmers-coded-way-top/ 
+
 [5] https://inshorts.com/en/news/zuckerberg-made-his-1st-messaging-program-zucknet-at-age-12-1557835779982 
+
 [6] https://www.thecrimson.com/article/2005/2/24/key-players-three-full-time-employees-have/ 
+
 [7] https://www.youtube.com/watch?v=5bJi7k-y1Lo 
+
 [8] https://www.entrepreneur.com/article/233890?newsletter=true 
+
 [9] https://www.brandwatch.com/blog/history-of-facebook/ 
+
 [10] https://www.thejournal.ie/facebook-in-pictures-2355224-Oct2015/ 
+
 [11] https://ie.oberlo.com/blog/facebook-statistics#:~:text=Facebook%20has%202.60%20billion%20monthly,site%20on%20a%20daily%20basis. 
+
 [12] https://research.fb.com/blog/2017/06/mark-harmon-on-software-engineering-at-facebook-scale/ 
+
 [13] https://socialmediaweek.org/blog/2015/02/heres-facebook-damn-fast-even-1-35b-users/ 
+
 [14] https://hbr.org/2014/02/the-scaling-lesson-from-facebooks-miraculous-10-year-rise 
